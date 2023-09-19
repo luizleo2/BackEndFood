@@ -9,8 +9,6 @@ A **API Restful FoodExplorer** foi projetado para ser uma ponte entre o Front-En
 - [💡 Tecnologias](#-tecnologias)
 - [🛠️ Instalação](#%EF%B8%8F-instalação)
 - [🌐 Endpoints](#-endpoints)
-- [🤝 Contribuições](#-contribuições)
-- [📄 Licença](#-licença)
 ## 📌 Introdução
 
 Essa API foi desenvolvida utilizando Node.js e oferece endpoints que abrangem diferentes aspectos do projeto **Food Explorer**, incluindo usuários, pratos e favoritos.
