@@ -84,7 +84,7 @@ Siga os passos abaixo para instalar e configurar a API em um ambiente local:
 1. 📥 **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/GabrielFTeles/Food-Explorer.git
+    git clone https://github.com/luizleo2/BackEndFood.git
     ```
 
 2. 📂 **Navegue para o diretório do projeto:**
